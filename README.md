@@ -13,4 +13,11 @@ Usted debe subir solo el enlace del repositorio, sea en Github o Gitlab </p>
 <p><code>npm start</code></p>
 
 <p><b>Instrucciones</b></p>
+
+<h5><i>Listar verduras</i></h5>
+<p>HTTP GET</p>
+<p>http://localhost:3000/tasks/</p>
+
 <h5><i>Insertar verdura</i></h5>
+<p>HTTP POST</p>
+<p>http://localhost:3000/tasks/</p>
