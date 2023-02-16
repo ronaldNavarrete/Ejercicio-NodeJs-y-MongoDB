@@ -22,7 +22,7 @@ MÉTODO  HTTP GET
 URL     http://localhost:3000/tasks
 ```
 
-<p>Buscar una verduras por su ID</p>
+<p>Buscar una verdura por su ID</p>
 
 ```plain
 MÉTODO  HTTP GET
