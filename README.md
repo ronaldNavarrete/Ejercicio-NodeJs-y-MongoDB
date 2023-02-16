@@ -7,6 +7,8 @@
 Usted debe subir solo el enlace del repositorio, sea en Github o Gitlab </p>
 
 <p><b>Instalación</b></p>
+<p><code>git clone https://github.com/ronaldNavarrete/Ejercicio-NodeJs-y-MongoDB.git</code></p>
+<p><code>cd Ejercicio-NodeJs-y-MongoDB</code></p>
 <p><code>npm install</code></p>
 <p><code>npm start</code></p>
 
