@@ -16,8 +16,8 @@ Usted debe subir solo el enlace del repositorio, sea en Github o Gitlab </p>
 <p><b>Instrucciones</b></p>
 
 <p> > Listar verduras</p>
-> HTTP GET
-<p>http://localhost:3000/tasks/</p>
+<p>Método <code>GET</code></p>
+<p>Url <code>http://localhost:3000/tasks/</code></p>
 
 <p> > Insertar verduras</p>
 <p>HTTP POST</p>
