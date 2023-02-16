@@ -19,13 +19,13 @@ Usted debe subir solo el enlace del repositorio, sea en Github o Gitlab </p>
 #### Insertar HN
 
 ```plain
+<p>MÉTODO: <code>GET</code></p>
 # Esto es un H1
 ## Esto es un H2
 ### Esto es un H3
 #### Esto es un H4
 ```
 <div style='background-color: #fff'>
-  <p>MÉTODO: <code>GET</code></p>
   <p>URL: <code>http://localhost:3000/tasks/</code></p>
 </div>
 
