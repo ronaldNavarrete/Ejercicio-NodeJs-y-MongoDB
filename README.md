@@ -9,6 +9,3 @@ Usted debe subir solo el enlace del repositorio, sea en Github o Gitlab </p>
 <p><b>Instalación</b></p>
 <p><code>npm install</code></p>
 <p><code>npm start</code></p>
-
-<br>
-<p>* No olvidar tener el servidor de MongoDB ejecutándose en el equipo para que la aplicación funcione correctamente.</p>
