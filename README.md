@@ -15,16 +15,20 @@ Usted debe subir solo el enlace del repositorio, sea en Github o Gitlab </p>
 <br>
 <p><b>Instrucciones</b></p>
 
-<p>> Listar verduras</p>
+<p>Listar verduras</p>
+
 ```plain
+
 MÉTODO: HTTP GET
 URL: http://localhost:3000/tasks
 
 ```
 <br>
 
-<p>> Insertar verduras</p>
+<p>Insertar verduras</p>
+
 ```plain
+
 MÉTODO: HTTP POST
 URL: http://localhost:3000/tasks
 EJEMPLO:
@@ -37,4 +41,4 @@ EJEMPLO:
 }
 
 ```
-<p>> Modificar verduras</p>
+<p>> Modificar verduras</p
