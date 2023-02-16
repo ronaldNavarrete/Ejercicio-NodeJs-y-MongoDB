@@ -25,7 +25,6 @@ URL: http://localhost:3000/tasks
 <p>Insertar verduras</p>
 
 ```plain
-
 MÉTODO: HTTP POST
 URL: http://localhost:3000/tasks
 EJEMPLO:
@@ -36,6 +35,5 @@ EJEMPLO:
     "medida": "unidad",
     "precio": 0.25
 }
-
 ```
 <p>> Modificar verduras</p
