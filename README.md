@@ -18,8 +18,8 @@ Usted debe subir solo el enlace del repositorio, sea en Github o Gitlab </p>
 <p>> Listar verduras</p>
 #### Insertar HN
 
-```html
-<p>MÉTODO: <code>GET</code></p>
+```plain
+MÉTODO: HTTP GET
 # Esto es un H1
 ## Esto es un H2
 ### Esto es un H3
