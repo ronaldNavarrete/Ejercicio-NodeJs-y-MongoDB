@@ -18,15 +18,15 @@ Usted debe subir solo el enlace del repositorio, sea en Github o Gitlab </p>
 <p>Listar verduras</p>
 
 ```plain
-MÉTODO: HTTP GET
-URL: http://localhost:3000/tasks
+MÉTODO  HTTP GET
+URL     http://localhost:3000/tasks
 ```
 
 <p>Insertar verduras</p>
 
 ```plain
-MÉTODO: HTTP POST
-URL: http://localhost:3000/tasks
+MÉTODO  HTTP POST
+URL     http://localhost:3000/tasks
 EJEMPLO:
 {
     "title": "Rábano",
