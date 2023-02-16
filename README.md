@@ -7,8 +7,7 @@
 Usted debe subir solo el enlace del repositorio, sea en Github o Gitlab </p>
 
 <p>Instalación</p>
-<code>
-npm install
+<code>npm install
 npm start
 </code>
 <br>
