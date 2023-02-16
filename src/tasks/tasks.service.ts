@@ -24,22 +24,19 @@ export class TasksService {
     }
 
     async eliminarItem(id: String) {
-        return await this.taskModel.deleteOne({
-            _id: id
-        });
+        return await this.taskModel.deleteOne({ _id: id });
     }
 
     async actualizarItem(id: String, task: CreateTaskDTO) {
         const newTask = new this.taskModel(task);
-        return await this.taskModel.updateOne({
-            _id: id
-        }, {
+        return await this.taskModel.updateOne({ _id: id }, {
             $set: {
                 title: task.title,
                 description: task.description,
-                done: task.done
+                stock: task.stock,
+                medida: task.medida,
+                precio: task.precio
             }
         });
     }
-    
 }

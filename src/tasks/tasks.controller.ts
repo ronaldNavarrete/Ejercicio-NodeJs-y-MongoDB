@@ -26,14 +26,12 @@ export class TasksController {
 
     @Delete(":id")
     deleteTask(@Param("id") id) {
-        console.log(id);
         return this.taskService.eliminarItem(id);
     }
 
     @Put(":id")
     updateTask(@Body() task: CreateTaskDTO, @Param("id") id) {
         console.log(task);
-        console.log(id);
         return this.taskService.actualizarItem(id, task);
     }
 

@@ -1,7 +1,7 @@
 export class CreateTaskDTO {
-
     title: string;
     description: string;
-    done: boolean;
-
+    stock: number;
+    medida: string;
+    precio: number;
 }
