@@ -27,13 +27,30 @@ URL     http://localhost:3000/tasks
 ```plain
 MÉTODO  HTTP POST
 URL     http://localhost:3000/tasks
-EJEMPLO:
+CUERPO
 {
-    "title": "Rábano",
-    "description": "Son bajos en calorías, ayudan a controlar la glucosa en sangre, reducen el riesgo de sufrir enfermedades cardiovasculares y son ricos en vitamina C.",
-    "stock": 86,
-    "medida": "unidad",
-    "precio": 0.25
+    "title": String,
+    "description": String,
+    "stock": Number,
+    "medida": String,
+    "precio": Number
 }
 ```
-<p>> Modificar verduras</p
+
+<p>Modificar verdura</p>
+
+```plain
+MÉTODO  HTTP PUT
+URL     http://localhost:3000/tasks/<_id DE LA VERDURA>
+CUERPO
+{
+    "title": String,
+    "description": String,
+    "stock": Number,
+    "medida": String,
+    "precio": Number
+}
+```
+
+<p>Eliminar verdura</p>
+
