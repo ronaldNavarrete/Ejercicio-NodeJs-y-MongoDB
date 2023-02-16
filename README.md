@@ -15,14 +15,12 @@ Usted debe subir solo el enlace del repositorio, sea en Github o Gitlab </p>
 <br>
 <p><b>Instrucciones</b></p>
 
-<p> > Listar verduras</p>
-<p>Método <code>GET</code></p>
-<p>Url <code>http://localhost:3000/tasks/</code></p>
-```
-function test() {
-  console.log("notice the blank line before this function?");
-}
-```
-<p> > Insertar verduras</p>
-<p>HTTP POST</p>
-<p>http://localhost:3000/tasks/</p>
+<p>> Listar verduras</p>
+<p>MÉTODO: <code>GET</code></p>
+<p>URL: <code>http://localhost:3000/tasks/</code></p>
+
+<br>
+
+<p>> Insertar verduras</p>
+<p>MÉTODO: <code>POST</code></p>
+<p>URL: <code>http://localhost:3000/tasks/</code></p>
