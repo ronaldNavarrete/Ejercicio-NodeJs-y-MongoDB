@@ -22,17 +22,3 @@ URL: http://localhost:3000/tasks
 ```
 <br>
 
-<p>> Insertar verduras</p>
-```plain
-MÉTODO: HTTP POST
-URL: http://localhost:3000/tasks
-EJEMPLO:
-{
-    "title": "Rábano",
-    "description": "Son bajos en calorías, ayudan a controlar la glucosa en sangre, reducen el riesgo de sufrir enfermedades cardiovasculares y son ricos en vitamina C.",
-    "stock": 86,
-    "medida": "unidad",
-    "precio": 0.25
-}
-```
-<p>> Modificar verduras</p>
