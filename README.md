@@ -21,7 +21,6 @@ Usted debe subir solo el enlace del repositorio, sea en Github o Gitlab </p>
 MÉTODO: HTTP GET
 URL: http://localhost:3000/tasks
 ```
-<br>
 
 <p>Insertar verduras</p>
 
