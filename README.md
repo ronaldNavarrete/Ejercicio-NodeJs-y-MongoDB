@@ -20,15 +20,8 @@ Usted debe subir solo el enlace del repositorio, sea en Github o Gitlab </p>
 
 ```plain
 MÉTODO: HTTP GET
-# Esto es un H1
-## Esto es un H2
-### Esto es un H3
-#### Esto es un H4
+URL: http://localhost:3000/tasks
 ```
-<div style='background-color: #fff'>
-  <p>URL: <code>http://localhost:3000/tasks/</code></p>
-</div>
-
 <br>
 
 <p>> Insertar verduras</p>
