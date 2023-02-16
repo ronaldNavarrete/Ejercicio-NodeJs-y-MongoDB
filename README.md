@@ -54,3 +54,7 @@ CUERPO
 
 <p>Eliminar verdura</p>
 
+```plain
+MÉTODO  HTTP DELETE
+URL     http://localhost:3000/tasks/<_id DE LA VERDURA>
+```
