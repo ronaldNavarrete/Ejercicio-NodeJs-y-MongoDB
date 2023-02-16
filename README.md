@@ -15,10 +15,10 @@ Usted debe subir solo el enlace del repositorio, sea en Github o Gitlab </p>
 <br>
 <p><b>Instrucciones</b></p>
 
-<h5><i>Listar verduras</i></h5>
+<p> > Listar verduras</p>
 > HTTP GET
 <p>http://localhost:3000/tasks/</p>
 
-<h5><i>Insertar verdura</i></h5>
+<p> > Insertar verduras</p>
 <p>HTTP POST</p>
 <p>http://localhost:3000/tasks/</p>
