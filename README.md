@@ -9,3 +9,6 @@ Usted debe subir solo el enlace del repositorio, sea en Github o Gitlab </p>
 <p><b>Instalación</b></p>
 <p><code>npm install</code></p>
 <p><code>npm start</code></p>
+
+<p><b>Instrucciones</b></p>
+<h5>Insertar verdura</h5>
